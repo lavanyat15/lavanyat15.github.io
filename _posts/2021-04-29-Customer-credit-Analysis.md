@@ -1,10 +1,10 @@
 ---
-title: "Project 1 - Customer Credit Analysis"
+title: "Project 1 - Customer Credit/Default Analysis"
 date: 2021-04-29
-tags: [data analytics, data science, classification]
+tags: [data analytics, data science, classification, regression]
 header:
 image: "/images/perceptron/percept.jpg"
-excerpt: "Regression and Classification Modeling in Python using JupyterLab"
+excerpt: "Regression and Classification Modeling in Python using JupyterNotebook"
 mathjax: "true"
 ---
 
