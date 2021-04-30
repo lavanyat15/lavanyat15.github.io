@@ -1,5 +1,5 @@
 ---
-title: "Project 3 - Market Basket Analysis - Association Rules"
+title: "Project 3 - Market Basket Analysis / Association Rules"
 date: 2021-04-29
 tags: [data analytics, data science, Association Rules]
 header:
@@ -26,4 +26,5 @@ Tools: R, R Studio, Arules, ArulesViz
 
 ```
 Code and Visualizations can be found in Github link below.
+
 [T4 - Market Basket Analysis / Association Rules](https://github.com/lavanyat15/DataScience-Code/tree/main/(C3)Predicting%20customer%20Pref%20in%20R/(T4)MBA%20Association%20Rules)
