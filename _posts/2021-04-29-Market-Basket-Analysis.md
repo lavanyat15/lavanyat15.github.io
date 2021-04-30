@@ -1,10 +1,10 @@
 ---
 title: "Project 3 - Market Basket Analysis"
 date: 2021-04-29
-tags: [data analytics, data science, classification, regression]
+tags: [data analytics, data science, Association Rules]
 header:
 image: "/images/perceptron/percept.jpg"
-excerpt: "Regression and Classification Modeling in R using RStudio"
+excerpt: "Association Rules in R using RStudio"
 mathjax: "true"
 ---
 
