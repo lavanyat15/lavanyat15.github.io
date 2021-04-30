@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/Data-Science_FB.jpg"
+  image: "/images/Data-Science_FB.jpeg"
 ---
 
 As an apsiring data scientist, I specialize in machine learning techniques and data wrangling with experience in Python and R programming.
