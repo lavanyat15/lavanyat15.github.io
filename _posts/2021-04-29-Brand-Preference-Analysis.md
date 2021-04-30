@@ -14,6 +14,8 @@ mathjax: "true"
  
 2. Determine associations between products that will be used to drive sales-oriented initiatives such as recommender systems. [T4]
 
+Code, Visualizations and Report can be found in Github link below.
+
 [T1 : Intro to R ](https://github.com/lavanyat15/DataScience-Code/tree/main/(C3)Predicting%20customer%20Pref%20in%20R/(T1)%20Intro%20to%20R)
 
 ### Goals : 
