@@ -1,5 +1,5 @@
 ---
-title: "Project 2 - Customer Brand Preference Analysis / Market Basket Analysis"
+title: "Project 2 - Customer Brand Preference Analysis"
 date: 2021-04-29
 tags: [data analytics, data science, classification, regression]
 header:
@@ -9,14 +9,14 @@ mathjax: "true"
 ---
 
 # Overview
-There are 2 parts to this course 
+#### There are 2 parts to this course 
 1. Used machine learning methods to predict which brand of computer products customers prefer, based on customer demographics collected from a marketing survey . [T2, T3]
  
 2. Determine associations between products that will be used to drive sales-oriented initiatives such as recommender systems. [T4]
 
 [T1 : Intro to R ](https://github.com/lavanyat15/DataScience-Code/tree/main/(C3)Predicting%20customer%20Pref%20in%20R/(T1)%20Intro%20to%20R)
 
-Goals : 
+### Goals : 
 
 To learn R by analysing and bugfixing. 
 This is a tutorial based task to learn the basics of analytics and visualization using R. 
@@ -26,9 +26,11 @@ The dataset used is the cars.csv file.
 Since the best way to learn is through trial and error, so after cars.csv, worked by running a script of code. 
 The dataset is the iris.csv file, and the task was to debug errors in the script.
 
+Code, Visualizations and Report can be found in Github link below.
+
 [T2 - Predict Customer Brand Preference for Blackwell Electronics ](https://github.com/lavanyat15/DataScience-Code/tree/main/(C3)Predicting%20customer%20Pref%20in%20R/(T2)%20Predict%20CustomerBrandPref)
 
-Analysis goals :
+### Analysis goals :
 
 To build a model to predict responses on incomplete dataset about which product sells more based on a complete responses from customers. 
 
@@ -40,9 +42,11 @@ Data file labelled CompleteResponses.csv is the data set to train your model and
 The file labelled SurveyIncomplete.csv is test set (the data you will apply your optimized model to predict the brand preference). 
 You'll be applying your trained and tested model to this data to prepare the model for production.
 
+Code, Visualizations and Report can be found in Github link below.
+
 [T3 - Multiple Regression in R](https://github.com/lavanyat15/DataScience-Code/tree/main/(C3)Predicting%20customer%20Pref%20in%20R/(T3)Multiple%20Regression%20R)
 
-Analysis goals :
+### Analysis goals :
 
 Predicting sales of four different product types: PC, Laptops, Netbooks and Smartphones
 Assessing the impact service reviews and customer reviews have on sales of different product types.
