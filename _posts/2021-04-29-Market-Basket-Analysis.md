@@ -1,5 +1,5 @@
 ---
-title: "Project 3 - Market Basket Analysis / Association Rules"
+title: "Project 3 - Market Basket Analysis/Association Rules"
 date: 2021-04-29
 tags: [data analytics, data science, Association Rules]
 header:
