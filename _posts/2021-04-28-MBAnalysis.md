@@ -1,6 +1,6 @@
 ---
 title: "Project 3 - Market Basket Analysis"
-date: 2021-04-30
+date: 2021-04-28
 tags: [data analytics, data science, Association Rules]
 header:
 image: "/images/perceptron/percept.jpg"
