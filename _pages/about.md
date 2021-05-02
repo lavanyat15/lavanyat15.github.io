@@ -14,12 +14,12 @@ header:
 
 TECHNICAL SKILLS:
 
-* Languages	    JAVA, J2EE, Servlet, JSP, EJB, JDBC, HTML, CSS, JavaScript
-* Databases	    Oracle9i, PL/SQL, SQL, DB2
+* Languages	    Python, R, JAVA, JEE, Servlet, JSP, EJB, JDBC, HTML, CSS, JavaScript
+* Databases	    Oracle, PL/SQL, SQL, DB2
 * CI / CD	    Maven, GIT, UDeploy, Jenkins
-* IDE		    Spring Tool Suite, Visual Studio Code, Eclipse, DreamWeaver, IntelliJ
+* IDE		    RStudio, Spring Tool Suite, Visual Studio Code, Eclipse, DreamWeaver, IntelliJ
 * Version Control   GIT, Visual Source Safe, Subversion
-* Tools		    JIRA, HPOO, QC, Datical, Fortify, Sonar, Parasoft Virtualize
+* Tools		    Anaconda,Jupyternotebook,JIRA, HPOO, QC, Datical, Fortify, Sonar, Parasoft Virtualize
 
 ```
 
