@@ -1,6 +1,6 @@
 ---
 title: "Project 4 - Time Series Analysis (Home Energy consumption)"
-date: 2021-05-28
+date: 2021-04-27
 tags: [data analytics, data science, time series analysis]
 header:
 image: "/images/perceptron/percept.jpg"
